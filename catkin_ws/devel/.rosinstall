@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/Workspaces/kalman-filter-poc/catkin_ws/devel/setup.sh
